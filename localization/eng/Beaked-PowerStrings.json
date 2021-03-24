@@ -188,7 +188,7 @@
 			" #yАтаки наносят двойной урон."
 		]
 	},
-	"beaked:LagavulinsFerocityPower": {
+	"beaked:LagavulinsFerocityPlusPower": {
 		"NAME": "Свирепость Лагавулина",
 		"DESCRIPTIONS": [
 			"Каждый ход первая #yАтака наносит тройной урон.",
