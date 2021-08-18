@@ -1,4 +1,3 @@
-# Russian_translation_Beaked_mod
 
 # Оригинальный мод
 https://steamcommunity.com/sharedfiles/filedetails/?id=1609820830
@@ -12,3 +11,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1609820830
 
 - Архив мода в расширении jar (Пример Lobotomy.jar). 
 
+###### Видеоинструкция
+
+https://www.youtube.com/watch?v=bBMtYdGAk0g
